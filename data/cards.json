@@ -7,7 +7,7 @@
         "name": "Esprit du brasier",
         "type": "Creature",
         "cost": 0,
-        "image": "https://theodep.github.io/ano-tcg-assets/cards/1.webp",
+        "image": "https://fluflun.github.io/Ano/cards/1.webp",
         "isHorizontal": false
       }
     },
@@ -28,7 +28,7 @@
         "name": "Vulpes du brasier",
         "type": "Creature",
         "cost": 0,
-        "image": "https://theodep.github.io/ano-tcg-assets/cards/2.webp",
+        "image": "https://fluflun.github.io/Ano/cards/2.webp",
         "isHorizontal": false
       }
     },
@@ -51,7 +51,7 @@
         "name": "Pyromancier du brasier",
         "type": "Creature",
         "cost": 0,
-        "image": "https://theodep.github.io/ano-tcg-assets/cards/3.webp",
+        "image": "https://fluflun.github.io/Ano/cards/3.webp",
         "isHorizontal": false
       }
     },
@@ -74,7 +74,7 @@
         "name": "Archimage du brasier",
         "type": "Creature",
         "cost": 0,
-        "image": "https://theodep.github.io/ano-tcg-assets/cards/4.webp",
+        "image": "https://fluflun.github.io/Ano/cards/4.webp",
         "isHorizontal": false
       }
     },
@@ -95,7 +95,7 @@
         "name": "Vagabond de l'ouest",
         "type": "Creature",
         "cost": 0,
-        "image": "https://theodep.github.io/ano-tcg-assets/cards/5.webp",
+        "image": "https://fluflun.github.io/Ano/cards/5.webp",
         "isHorizontal": false
       }
     },
@@ -118,7 +118,7 @@
         "name": "Duelliste de l'ouest",
         "type": "Creature",
         "cost": 0,
-        "image": "https://theodep.github.io/ano-tcg-assets/cards/6.webp",
+        "image": "https://fluflun.github.io/Ano/cards/6.webp",
         "isHorizontal": false
       }
     },
@@ -141,7 +141,7 @@
         "name": "Eclosion de balles",
         "type": "Sort",
         "cost": 0,
-        "image": "https://theodep.github.io/ano-tcg-assets/cards/7.webp",
+        "image": "https://fluflun.github.io/Ano/cards/7.webp",
         "isHorizontal": false
       }
     },
@@ -164,7 +164,7 @@
         "name": "Porte-flambeau",
         "type": "Creature",
         "cost": 0,
-        "image": "https://theodep.github.io/ano-tcg-assets/cards/8.webp",
+        "image": "https://fluflun.github.io/Ano/cards/8.webp",
         "isHorizontal": false
       }
     },
@@ -187,7 +187,7 @@
         "name": "Sanctifier",
         "type": "Sort",
         "cost": 0,
-        "image": "https://theodep.github.io/ano-tcg-assets/cards/9.webp",
+        "image": "https://fluflun.github.io/Ano/cards/9.webp",
         "isHorizontal": false
       }
     },
@@ -210,7 +210,7 @@
         "name": "Croiser vertueux",
         "type": "Creature",
         "cost": 0,
-        "image": "https://theodep.github.io/ano-tcg-assets/cards/10.webp",
+        "image": "https://fluflun.github.io/Ano/cards/10.webp",
         "isHorizontal": false
       }
     },
@@ -233,7 +233,7 @@
         "name": "Recolte de citrouilliard",
         "type": "Sort",
         "cost": 0,
-        "image": "https://theodep.github.io/ano-tcg-assets/cards/11.webp",
+        "image": "https://fluflun.github.io/Ano/cards/11.webp",
         "isHorizontal": false
       }
     },
@@ -256,7 +256,7 @@
         "name": "Fend'os",
         "type": "Creature",
         "cost": 0,
-        "image": "https://theodep.github.io/ano-tcg-assets/cards/12.webp",
+        "image": "https://fluflun.github.io/Ano/cards/12.webp",
         "isHorizontal": false
       }
     },
@@ -279,7 +279,7 @@
         "name": "Doudouhan",
         "type": "Creature",
         "cost": 0,
-        "image": "https://theodep.github.io/ano-tcg-assets/cards/13.webp",
+        "image": "https://fluflun.github.io/Ano/cards/13.webp",
         "isHorizontal": false
       }
     },
@@ -302,7 +302,7 @@
         "name": "Esprit des abysses",
         "type": "Creature",
         "cost": 0,
-        "image": "https://theodep.github.io/ano-tcg-assets/cards/14.webp",
+        "image": "https://fluflun.github.io/Ano/cards/14.webp",
         "isHorizontal": false
       }
     },
@@ -325,7 +325,7 @@
         "name": "Axolotl des abysses",
         "type": "Creature",
         "cost": 0,
-        "image": "https://theodep.github.io/ano-tcg-assets/cards/15.webp",
+        "image": "https://fluflun.github.io/Ano/cards/15.webp",
         "isHorizontal": false
       }
     },
@@ -348,7 +348,7 @@
         "name": "Dracolotl des abysses",
         "type": "Creature",
         "cost": 0,
-        "image": "https://theodep.github.io/ano-tcg-assets/cards/16.webp",
+        "image": "https://fluflun.github.io/Ano/cards/16.webp",
         "isHorizontal": false
       }
     },
@@ -371,7 +371,7 @@
         "name": "Leviathan des abysses",
         "type": "Creature",
         "cost": 0,
-        "image": "https://theodep.github.io/ano-tcg-assets/cards/17.webp",
+        "image": "https://fluflun.github.io/Ano/cards/17.webp",
         "isHorizontal": false
       }
     },
@@ -393,7 +393,7 @@
         "name": "Savoir interdit",
         "type": "Sort",
         "cost": 0,
-        "image": "https://theodep.github.io/ano-tcg-assets/cards/18.webp",
+        "image": "https://fluflun.github.io/Ano/cards/18.webp",
         "isHorizontal": false
       }
     },
@@ -416,7 +416,7 @@
         "name": "Pantin macabre",
         "type": "Creature",
         "cost": 0,
-        "image": "https://theodep.github.io/ano-tcg-assets/cards/19.webp",
+        "image": "https://fluflun.github.io/Ano/cards/19.webp",
         "isHorizontal": false
       }
     },
@@ -439,7 +439,7 @@
         "name": "Abomination",
         "type": "Creature",
         "cost": 0,
-        "image": "https://theodep.github.io/ano-tcg-assets/cards/20.webp",
+        "image": "https://fluflun.github.io/Ano/cards/20.webp",
         "isHorizontal": false
       }
     },
@@ -462,7 +462,7 @@
         "name": "Apprenti fleau",
         "type": "Creature",
         "cost": 0,
-        "image": "https://theodep.github.io/ano-tcg-assets/cards/21.webp",
+        "image": "https://fluflun.github.io/Ano/cards/21.webp",
         "isHorizontal": false
       }
     },
@@ -485,7 +485,7 @@
         "name": "Adapte galactique",
         "type": "Creature",
         "cost": 0,
-        "image": "https://theodep.github.io/ano-tcg-assets/cards/22.webp",
+        "image": "https://fluflun.github.io/Ano/cards/22.webp",
         "isHorizontal": false
       }
     },
@@ -508,7 +508,7 @@
         "name": "Controle cosmique",
         "type": "Sort",
         "cost": 0,
-        "image": "https://theodep.github.io/ano-tcg-assets/cards/23.webp",
+        "image": "https://fluflun.github.io/Ano/cards/23.webp",
         "isHorizontal": false
       }
     },
@@ -531,7 +531,7 @@
         "name": "Corbeau pelerin",
         "type": "Creature",
         "cost": 0,
-        "image": "https://theodep.github.io/ano-tcg-assets/cards/24.webp",
+        "image": "https://fluflun.github.io/Ano/cards/24.webp",
         "isHorizontal": false
       }
     },
@@ -554,7 +554,7 @@
         "name": "Illusion",
         "type": "Sort",
         "cost": 0,
-        "image": "https://theodep.github.io/ano-tcg-assets/cards/25.webp",
+        "image": "https://fluflun.github.io/Ano/cards/25.webp",
         "isHorizontal": false
       }
     },
@@ -577,7 +577,7 @@
         "name": "Sun Wukong",
         "type": "Creature",
         "cost": 0,
-        "image": "https://theodep.github.io/ano-tcg-assets/cards/26.webp",
+        "image": "https://fluflun.github.io/Ano/cards/26.webp",
         "isHorizontal": false
       }
     },
