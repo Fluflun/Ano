@@ -3,15 +3,15 @@
   "menuBackgroundImage": "",
   "defaultRessources": {
     "backgrounds": [
-      "https://theodep.github.io/ano-tcg-assets/playmats/default.webp"
+      "https://fluflun.github.io/Ano/playmats/default.webp"
     ],
     "decksUrl": ""
   },
   "customHelp": "",
   "cardRotation": "90",
   "cards": {
-    "dataUrl": "https://theodep.github.io/ano-tcg-assets/data/cards.json",
-    "cardBack": "https://theodep.github.io/ano-tcg-assets/cards/back.webp"
+    "dataUrl": "https://fluflun.github.io/Ano/data/cards.json",
+    "cardBack": "https://fluflun.github.io/Ano/cards/back.webp"
   },
   "deckBuilding": {
     "mainFilters": [
