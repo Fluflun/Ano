@@ -85,7 +85,8 @@
     "Force": "35",
     "Endurance": "25",
     "Evolution": true,
-    "Cout evolution": "2"
+    "Cout evolution": "2",
+    "SD": true
   },
   "5": {
     "id": "5",
@@ -123,7 +124,7 @@
       }
     },
     "name": "Duelliste de l'ouest",
-    "type": false,
+    "type": "Creature",
     "cost": "4",
     "SD": false,
     "Type": "Humanoide",
@@ -353,12 +354,12 @@
       }
     },
     "name": "Dracolotl des abysses",
-    "type": false,
+    "type": "Creature",
     "cost": "6",
     "SD": false,
     "Type": "Esprit",
-    "Force": 0,
-    "Endurance": 0,
+    "Force": "15",
+    "Endurance": "25",
     "Pre evolution": true,
     "Evolution": true,
     "Cout evolution": "2"
@@ -368,7 +369,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Leviathan des abysses",
+        "name": "https://fluflun.github.io/Ano/cards/17.webp",
         "type": "Creature",
         "cost": 0,
         "image": "https://fluflun.github.io/Ano/cards/17.webp",
@@ -383,7 +384,8 @@
     "Endurance": "30",
     "Pre evolution": false,
     "Evolution": true,
-    "Cout evolution": "2"
+    "Cout evolution": "2",
+    "SD": true
   },
   "18": {
     "id": "18",
@@ -490,7 +492,7 @@
       }
     },
     "name": "Adepte galactique",
-    "type": false,
+    "type": "Creature",
     "cost": "4",
     "SD": false,
     "Type": "Humanoide ???",
@@ -592,5 +594,1085 @@
     "SD": false,
     "Cout evolution": "",
     "Couleur": "Bleu"
+  },
+  "27": {
+    "id": "27",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Esprit luxuriant",
+        "type": "Creature",
+        "cost": 0,
+        "image": "https://fluflun.github.io/Ano/cards/27.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Esprit luxuriant",
+    "type": "Creature",
+    "cost": "2",
+    "Force": "10",
+    "Endurance": "10",
+    "Type": "Esprit",
+    "Evolution": "",
+    "Pre evolution": true,
+    "SD": false,
+    "Cout evolution": "",
+    "Couleur": ""
+  },
+  "28": {
+    "id": "28",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fungi luxuriant",
+        "type": "Creature",
+        "cost": 0,
+        "image": "https://fluflun.github.io/Ano/cards/28.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fungi luxuriant",
+    "type": "Creature",
+    "cost": "4",
+    "Force": "20",
+    "Endurance": "20",
+    "Type": "Esprit",
+    "Evolution": "true",
+    "Pre evolution": true,
+    "SD": false,
+    "Cout evolution": "2",
+    "Couleur": ""
+  },
+  "29": {
+    "id": "29",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ronin luxuriant",
+        "type": "Creature",
+        "cost": 0,
+        "image": "https://fluflun.github.io/Ano/cards/29.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ronin luxuriant",
+    "type": "Creature",
+    "cost": "6",
+    "Force": "30",
+    "Endurance": "30",
+    "Type": "Esprit",
+    "Evolution": "true",
+    "Pre evolution": true,
+    "SD": false,
+    "Cout evolution": "2",
+    "Couleur": ""
+  },
+  "30": {
+    "id": "30",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shogun luxuriant",
+        "type": "Creature",
+        "cost": 0,
+        "image": "https://fluflun.github.io/Ano/cards/30.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shogun luxuriant",
+    "type": "Creature",
+    "cost": "8",
+    "Force": "40",
+    "Endurance": "40",
+    "Type": "Esprit",
+    "Evolution": "true",
+    "Pre evolution": false,
+    "SD": true,
+    "Cout evolution": "2",
+    "Couleur": ""
+  },
+  "31": {
+    "id": "31",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://fluflun.github.io/Ano/cards/31.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Démêlement",
+    "type": false,
+    "cost": 0,
+    "Force": "",
+    "Endurance": "",
+    "Type": "",
+    "Evolution": "",
+    "Pre evolution": false,
+    "SD": false,
+    "Cout evolution": "",
+    "Couleur": ""
+  },
+  "32": {
+    "id": "32",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://fluflun.github.io/Ano/cards/32.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Perdre le fil",
+    "type": false,
+    "cost": 0,
+    "Force": "",
+    "Endurance": "",
+    "Type": "",
+    "Evolution": "",
+    "Pre evolution": false,
+    "SD": false,
+    "Cout evolution": "",
+    "Couleur": ""
+  },
+  "33": {
+    "id": "33",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://fluflun.github.io/Ano/cards/33.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Démêler",
+    "type": false,
+    "cost": 0,
+    "Force": "",
+    "Endurance": "",
+    "Type": "",
+    "Evolution": "",
+    "Pre evolution": false,
+    "SD": false,
+    "Cout evolution": "",
+    "Couleur": ""
+  },
+  "34": {
+    "id": "34",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://fluflun.github.io/Ano/cards/34.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chronomage",
+    "type": false,
+    "cost": 0,
+    "Force": "",
+    "Endurance": "",
+    "Type": "",
+    "Evolution": "",
+    "Pre evolution": false,
+    "SD": false,
+    "Cout evolution": "",
+    "Couleur": ""
+  },
+  "35": {
+    "id": "35",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://fluflun.github.io/Ano/cards/35.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chronostase",
+    "type": false,
+    "cost": 0,
+    "Force": "",
+    "Endurance": "",
+    "Type": "",
+    "Evolution": "",
+    "Pre evolution": false,
+    "SD": false,
+    "Cout evolution": "",
+    "Couleur": ""
+  },
+  "36": {
+    "id": "36",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://fluflun.github.io/Ano/cards/36.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gardien du flux",
+    "type": false,
+    "cost": 0,
+    "Force": "",
+    "Endurance": "",
+    "Type": "",
+    "Evolution": "",
+    "Pre evolution": false,
+    "SD": false,
+    "Cout evolution": "",
+    "Couleur": ""
+  },
+  "37": {
+    "id": "37",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://fluflun.github.io/Ano/cards/37.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hybride du crépuscule",
+    "type": false,
+    "cost": 0,
+    "Force": "",
+    "Endurance": "",
+    "Type": "",
+    "Evolution": "",
+    "Pre evolution": false,
+    "SD": false,
+    "Cout evolution": "",
+    "Couleur": ""
+  },
+  "38": {
+    "id": "38",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://fluflun.github.io/Ano/cards/38.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Traqueuse du crépuscule",
+    "type": false,
+    "cost": 0,
+    "Force": "",
+    "Endurance": "",
+    "Type": "",
+    "Evolution": "",
+    "Pre evolution": false,
+    "SD": false,
+    "Cout evolution": "",
+    "Couleur": ""
+  },
+  "39": {
+    "id": "39",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://fluflun.github.io/Ano/cards/39.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Miroir du crépuscule",
+    "type": false,
+    "cost": 0,
+    "Force": "",
+    "Endurance": "",
+    "Type": "",
+    "Evolution": "",
+    "Pre evolution": false,
+    "SD": false,
+    "Cout evolution": "",
+    "Couleur": ""
+  },
+  "40": {
+    "id": "40",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://fluflun.github.io/Ano/cards/40.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Idole voleur d'âmes",
+    "type": false,
+    "cost": 0,
+    "Force": "",
+    "Endurance": "",
+    "Type": "",
+    "Evolution": "",
+    "Pre evolution": false,
+    "SD": false,
+    "Cout evolution": "",
+    "Couleur": ""
+  },
+  "41": {
+    "id": "41",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://fluflun.github.io/Ano/cards/41.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dément voleur d'âmes",
+    "type": false,
+    "cost": 0,
+    "Force": "",
+    "Endurance": "",
+    "Type": "",
+    "Evolution": "",
+    "Pre evolution": false,
+    "SD": false,
+    "Cout evolution": "",
+    "Couleur": ""
+  },
+  "42": {
+    "id": "42",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://fluflun.github.io/Ano/cards/42.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rétif voleur d'âmes",
+    "type": false,
+    "cost": 0,
+    "Force": "",
+    "Endurance": "",
+    "Type": "",
+    "Evolution": "",
+    "Pre evolution": false,
+    "SD": false,
+    "Cout evolution": "",
+    "Couleur": ""
+  },
+  "43": {
+    "id": "43",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://fluflun.github.io/Ano/cards/43.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sentinelle voleur d'âmes",
+    "type": false,
+    "cost": 0,
+    "Force": "",
+    "Endurance": "",
+    "Type": "",
+    "Evolution": "",
+    "Pre evolution": false,
+    "SD": false,
+    "Cout evolution": "",
+    "Couleur": ""
+  },
+  "44": {
+    "id": "44",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://fluflun.github.io/Ano/cards/44.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Spin & Jam",
+    "type": false,
+    "cost": 0,
+    "Force": "",
+    "Endurance": "",
+    "Type": "",
+    "Evolution": "",
+    "Pre evolution": false,
+    "SD": false,
+    "Cout evolution": "",
+    "Couleur": ""
+  },
+  "45": {
+    "id": "45",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://fluflun.github.io/Ano/cards/45.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "\"SUPPR\"",
+    "type": false,
+    "cost": 0,
+    "Force": "",
+    "Endurance": "",
+    "Type": "",
+    "Evolution": "",
+    "Pre evolution": false,
+    "SD": false,
+    "Cout evolution": "",
+    "Couleur": ""
+  },
+  "46": {
+    "id": "46",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://fluflun.github.io/Ano/cards/46.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "L'Ermite des mers",
+    "type": false,
+    "cost": 0,
+    "Force": "",
+    "Endurance": "",
+    "Type": "",
+    "Evolution": "",
+    "Pre evolution": false,
+    "SD": false,
+    "Cout evolution": "",
+    "Couleur": ""
+  },
+  "47": {
+    "id": "47",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://fluflun.github.io/Ano/cards/47.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "L'assoifé",
+    "type": false,
+    "cost": 0,
+    "Force": "",
+    "Endurance": "",
+    "Type": "",
+    "Evolution": "",
+    "Pre evolution": false,
+    "SD": false,
+    "Cout evolution": "",
+    "Couleur": ""
+  },
+  "48": {
+    "id": "48",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://fluflun.github.io/Ano/cards/48.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Courage",
+    "type": false,
+    "cost": 0,
+    "Force": "",
+    "Endurance": "",
+    "Type": "",
+    "Evolution": "",
+    "Pre evolution": false,
+    "SD": false,
+    "Cout evolution": "",
+    "Couleur": ""
+  },
+  "49": {
+    "id": "49",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://fluflun.github.io/Ano/cards/49.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gardien du tombeau",
+    "type": false,
+    "cost": 0,
+    "Force": "",
+    "Endurance": "",
+    "Type": "",
+    "Evolution": "",
+    "Pre evolution": false,
+    "SD": false,
+    "Cout evolution": "",
+    "Couleur": ""
+  },
+  "50": {
+    "id": "50",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://fluflun.github.io/Ano/cards/50.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Artiste des ombres",
+    "type": false,
+    "cost": 0,
+    "Force": "",
+    "Endurance": "",
+    "Type": "",
+    "Evolution": "",
+    "Pre evolution": false,
+    "SD": false,
+    "Cout evolution": "",
+    "Couleur": ""
+  },
+  "51": {
+    "id": "51",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://fluflun.github.io/Ano/cards/51.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Appel aux Renforts",
+    "type": false,
+    "cost": 0,
+    "Force": "",
+    "Endurance": "",
+    "Type": "",
+    "Evolution": "",
+    "Pre evolution": false,
+    "SD": false,
+    "Cout evolution": "",
+    "Couleur": ""
+  },
+  "52": {
+    "id": "52",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://fluflun.github.io/Ano/cards/52.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Retro Sad Girl",
+    "type": false,
+    "cost": 0,
+    "Force": "",
+    "Endurance": "",
+    "Type": "",
+    "Evolution": "",
+    "Pre evolution": false,
+    "SD": false,
+    "Cout evolution": "",
+    "Couleur": ""
+  },
+  "53": {
+    "id": "53",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://fluflun.github.io/Ano/cards/53.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Brise-artefact",
+    "type": false,
+    "cost": 0,
+    "Force": "",
+    "Endurance": "",
+    "Type": "",
+    "Evolution": "",
+    "Pre evolution": false,
+    "SD": false,
+    "Cout evolution": "",
+    "Couleur": ""
+  },
+  "54": {
+    "id": "54",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://fluflun.github.io/Ano/cards/54.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Contre",
+    "type": false,
+    "cost": 0,
+    "Force": "",
+    "Endurance": "",
+    "Type": "",
+    "Evolution": "",
+    "Pre evolution": false,
+    "SD": false,
+    "Cout evolution": "",
+    "Couleur": ""
+  },
+  "55": {
+    "id": "55",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://fluflun.github.io/Ano/cards/55.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Requiem",
+    "type": false,
+    "cost": 0,
+    "Force": "",
+    "Endurance": "",
+    "Type": "",
+    "Evolution": "",
+    "Pre evolution": false,
+    "SD": false,
+    "Cout evolution": "",
+    "Couleur": ""
+  },
+  "56": {
+    "id": "56",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://fluflun.github.io/Ano/cards/56.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Automate pugiliste",
+    "type": false,
+    "cost": 0,
+    "Force": "",
+    "Endurance": "",
+    "Type": "",
+    "Evolution": "",
+    "Pre evolution": false,
+    "SD": false,
+    "Cout evolution": "",
+    "Couleur": ""
+  },
+  "57": {
+    "id": "57",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://fluflun.github.io/Ano/cards/57.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Anomalie",
+    "type": false,
+    "cost": 0,
+    "Force": "",
+    "Endurance": "",
+    "Type": "",
+    "Evolution": "",
+    "Pre evolution": false,
+    "SD": false,
+    "Cout evolution": "",
+    "Couleur": ""
+  },
+  "58": {
+    "id": "58",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://fluflun.github.io/Ano/cards/58.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Résurrection",
+    "type": false,
+    "cost": 0,
+    "Force": "",
+    "Endurance": "",
+    "Type": "",
+    "Evolution": "",
+    "Pre evolution": false,
+    "SD": false,
+    "Cout evolution": "",
+    "Couleur": ""
+  },
+  "59": {
+    "id": "59",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://fluflun.github.io/Ano/cards/59.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Maitre cornue",
+    "type": false,
+    "cost": 0,
+    "Force": "",
+    "Endurance": "",
+    "Type": "",
+    "Evolution": "",
+    "Pre evolution": false,
+    "SD": false,
+    "Cout evolution": "",
+    "Couleur": ""
+  },
+  "60": {
+    "id": "60",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://fluflun.github.io/Ano/cards/60.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Brise mage du papier",
+    "type": false,
+    "cost": 0,
+    "Force": "",
+    "Endurance": "",
+    "Type": "",
+    "Evolution": "",
+    "Pre evolution": false,
+    "SD": false,
+    "Cout evolution": "",
+    "Couleur": ""
+  },
+  "61": {
+    "id": "61",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://fluflun.github.io/Ano/cards/61.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Star du ring",
+    "type": false,
+    "cost": 0,
+    "Force": "",
+    "Endurance": "",
+    "Type": "",
+    "Evolution": "",
+    "Pre evolution": false,
+    "SD": false,
+    "Cout evolution": "",
+    "Couleur": ""
+  },
+  "62": {
+    "id": "62",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://fluflun.github.io/Ano/cards/62.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rubix le magnifique",
+    "type": false,
+    "cost": 0,
+    "Force": "",
+    "Endurance": "",
+    "Type": "",
+    "Evolution": "",
+    "Pre evolution": false,
+    "SD": false,
+    "Cout evolution": "",
+    "Couleur": ""
+  },
+  "63": {
+    "id": "63",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://fluflun.github.io/Ano/cards/63.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Balle",
+    "type": false,
+    "cost": 0,
+    "Force": "",
+    "Endurance": "",
+    "Type": "",
+    "Evolution": "",
+    "Pre evolution": false,
+    "SD": false,
+    "Cout evolution": "",
+    "Couleur": ""
+  },
+  "64": {
+    "id": "64",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://fluflun.github.io/Ano/cards/64.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Citrouilliard",
+    "type": false,
+    "cost": 0,
+    "Force": "",
+    "Endurance": "",
+    "Type": "",
+    "Evolution": "",
+    "Pre evolution": false,
+    "SD": false,
+    "Cout evolution": "",
+    "Couleur": ""
+  },
+  "65": {
+    "id": "65",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://fluflun.github.io/Ano/cards/65.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mi d'os ( haut )",
+    "type": false,
+    "cost": 0,
+    "Force": "",
+    "Endurance": "",
+    "Type": "",
+    "Evolution": "",
+    "Pre evolution": false,
+    "SD": false,
+    "Cout evolution": "",
+    "Couleur": ""
+  },
+  "66": {
+    "id": "66",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://fluflun.github.io/Ano/cards/66.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mi d'os ( bas )",
+    "type": false,
+    "cost": 0,
+    "Force": "",
+    "Endurance": "",
+    "Type": "",
+    "Evolution": "",
+    "Pre evolution": false,
+    "SD": false,
+    "Cout evolution": "",
+    "Couleur": ""
+  },
+  "67": {
+    "id": "67",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://fluflun.github.io/Ano/cards/67.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Piège Nébuleux",
+    "type": false,
+    "cost": 0,
+    "Force": "",
+    "Endurance": "",
+    "Type": "",
+    "Evolution": "",
+    "Pre evolution": false,
+    "SD": false,
+    "Cout evolution": "",
+    "Couleur": ""
+  },
+  "68": {
+    "id": "68",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://fluflun.github.io/Ano/cards/68.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gravité",
+    "type": false,
+    "cost": 0,
+    "Force": "",
+    "Endurance": "",
+    "Type": "",
+    "Evolution": "",
+    "Pre evolution": false,
+    "SD": false,
+    "Cout evolution": "",
+    "Couleur": ""
+  },
+  "69": {
+    "id": "69",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://fluflun.github.io/Ano/cards/69.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Copycat",
+    "type": false,
+    "cost": 0,
+    "Force": "",
+    "Endurance": "",
+    "Type": "",
+    "Evolution": "",
+    "Pre evolution": false,
+    "SD": false,
+    "Cout evolution": "",
+    "Couleur": ""
+  },
+  "70": {
+    "id": "70",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://fluflun.github.io/Ano/cards/70.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nœud",
+    "type": false,
+    "cost": 0,
+    "Force": "",
+    "Endurance": "",
+    "Type": "",
+    "Evolution": "",
+    "Pre evolution": false,
+    "SD": false,
+    "Cout evolution": "",
+    "Couleur": ""
+  },
+  "71": {
+    "id": "71",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://fluflun.github.io/Ano/cards/71.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Reproduction de Démêler",
+    "type": false,
+    "cost": 0,
+    "Force": "",
+    "Endurance": "",
+    "Type": "",
+    "Evolution": "",
+    "Pre evolution": false,
+    "SD": false,
+    "Cout evolution": "",
+    "Couleur": ""
   }
 }
